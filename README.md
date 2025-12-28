@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Sanjar
+## 👋 Hi, I'm Izzattillo
 
 🚀 Junior Python Developer | Security-focused learner
 
