@@ -44,7 +44,7 @@ A secure CLI-based password manager built with Python.
 
 ### 📫 Contact
 
-- GitHub: https://github.com/YOUR_USERNAME
+- GitHub: https://github.com/Izzattillo-dev
 
 ---
 
