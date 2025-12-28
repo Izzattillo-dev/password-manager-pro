@@ -1,55 +1,54 @@
-# 🔐 Password Manager Pro
+## 👋 Hi, I'm Sanjar
 
-A secure, CLI-based password manager built with **Python**.  
-This project demonstrates **encryption**, **secure authentication**, and **clean architecture** using real-world development practices.
+🚀 Junior Python Developer | Security-focused learner
 
----
-
-## 🚀 Features
-
-- 🔑 Master password authentication
-- 🧂 Salted key derivation for encryption
-- 🔐 Secure password encryption & decryption
-- 📦 Local encrypted storage using JSON
-- ➕ Add new passwords
-- 🔍 Retrieve saved passwords
-- ✏️ Update existing passwords
-- 🗑 Delete passwords
-- 🧱 Clean and modular project structure
-- 💻 CLI-based interface
+I’m learning Python by building real-world projects with a strong focus on:
+- clean architecture
+- security best practices
+- practical CLI tools
 
 ---
 
-## 🧠 Tech Stack
+### 🔐 Featured Project
 
-- Python 3
+**Password Manager Pro**  
+A secure CLI-based password manager built with Python.
+
+🔹 Master password authentication  
+🔹 PBKDF2 + salt-based encryption  
+🔹 Secure local storage  
+🔹 CRUD operations (Add / Get / Update / Delete)  
+
+👉 [View Project Repository](https://github.com/Izzattillo-dev/password-manager-pro)
+
+---
+
+### 🧠 Tech Stack
+
+- Python
 - cryptography (Fernet)
-- hashlib & secrets
-- JSON file storage
+- hashlib / PBKDF2
+- JSON
 - Git & GitHub
 
 ---
 
-## 📁 Project Structure
+### 📌 Currently Learning
 
-```text
-password-manager-pro/
-│
-├── app/
-│   ├── __init__.py
-│   ├── main.py        # CLI entry point
-│   ├── manager.py    # Password CRUD logic
-│   ├── auth.py       # Master password & verification
-│   └── utils.py      # Encryption / Decryption utilities
-│
-├── data/
-│   ├── master.json    # Encrypted master password & salt
-│   └── passwords.json # Encrypted stored passwords
-│
-├── README.md
-├── requirements.txt
-└── .gitignore
+- Secure application design
+- Encryption & key derivation
+- Python project structuring
+- Git best practices
 
+---
+
+### 📫 Contact
+
+- GitHub: https://github.com/YOUR_USERNAME
+
+---
+
+⭐ Always improving. Always building.
 
 
 
