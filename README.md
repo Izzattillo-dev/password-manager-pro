@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Platform](https://img.shields.io/badge/Platform-Windows%2064--bit-success)
+![Security](https://img.shields.io/badge/Focus-Security-critical)
+![CLI](https://img.shields.io/badge/Type-CLI-informational)
+
+
 ## 👋 Hi, I'm Izzattillo
 
 🚀 Junior Python Developer | Security-focused learner
