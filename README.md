@@ -163,5 +163,8 @@ Focused on real-world Python projects & clean engineering.
 ![Start](assets/screenshot-1.png)
 ![Menu](assets/screenshot-2.png)
 
+## 📸 Demo
+
+![Password Manager CLI](assets/screenshot-1.png)
 
 
